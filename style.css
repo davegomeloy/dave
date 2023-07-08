@@ -1,5 +1,60 @@
-.icons {text-align: center;margin-top: 70px; color: rgb(42, 52, 52);}
+body { 
+    margin: 0px;
+}
 
-.icons a:hover {background-color: rgb(181, 181, 181);}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
-.icons a {color: rgb(0, 0, 0);}
+
+.icons {
+
+    text-align: center;
+    margin-bottom: auto;
+    margin-top: 70px;
+  
+}
+
+.fa-brands.fa-square-facebook {
+    color: rgb(22, 22, 219);}
+
+
+.fa-brands.fa-youtube { color: red;}
+
+
+.fa-brands.fa-tiktok { color: rgb(36, 35, 35); }
+
+.fa-brands.fa-twitter {color: rgb(3, 255, 255);}
+h6 {
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(182, 81%, 60%);
+    padding: 0px;
+    margin-top: 0px;
+    overflow: hidden;
+    
+    }
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {  
+   background-color: rgb(45, 45, 45);
+}
+
+.navbar li {
+    float: left;
+
+}
+
+.fa {text-align: center;}
